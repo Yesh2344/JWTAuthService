@@ -1,3 +1,4 @@
+# Minor edit
 #!/bin/bash
 
 # Test the registration endpoint
